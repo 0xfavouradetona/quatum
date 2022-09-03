@@ -20,12 +20,7 @@ export default function Hero() {
 
   return (
     <section
-      className="relative pt-4 h-screen object-cover"
-      style={{
-        background:
-          "linear-gradient(180deg, rgba(0, 0, 0, 0.12) 0%, rgba(0, 0, 0, 0.2) 0.01%, rgba(0, 0, 0, 0.05) 13.97%), linear-gradient(90deg, #141414 10.71%, rgba(0, 0, 0, 0) 110.18%)",
-      }}
-    >
+      className="relative pt-4 h-screen object-cover">
       <div className="relative flex items-center gap-4 justify-between px-2 sm:px-4 md:px-16">
         <div className="hidden md:block">
           <img src={qntmlogo} alt="logo" width="200px" height="70px" />
