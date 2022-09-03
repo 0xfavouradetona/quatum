@@ -61,7 +61,7 @@ export default function Hero() {
 
       <div className="h-screen">
         <video
-          src="https://res.cloudinary.com/dllbqpsrp/video/upload/v1659346907/Wide_16_9_3840x2160_amq-13_r9htuu.mp4"
+          src="https://res.cloudinary.com/didp9iqsf/video/upload/v1662232331/Wide_16_9_3840x2160_amq-13_n5zywy.mp4"
           loop
           muted
           autoPlay
