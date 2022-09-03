@@ -68,7 +68,7 @@ export default function About() {
           className="font-ibm font-bold text-2xl md:text-4xl mb-6 about text-left"
           ref={(el) => (aboutRef = el)}
         >
-          ABOUT QTNM COMMUNITY
+          ABOUT QNTM COMMUNITY
         </h3>
 
         <p
